@@ -4,7 +4,7 @@ This file contains various basic and very useful learning material (at least for
 * [NTU-HsuanTienLin-MachineLearningFoundation Part II（林轩田机器学习](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
 * [機器學習技法 (Machine Learning Techniques)](https://www.coursera.org/learn/machine-learning-techniques)
 * [李宏毅2020机器学习深度学习](https://www.bilibili.com/video/av94519857/)
-* [A Collection of Python Notebooks to <<An Introduction to Statistical Learning>>](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+* [Python Notebooks to An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 
 The first two courses is related to the following course:  [Caltech's Machine Learning Course - CS 156](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) by Professor Yaser Abu-Mostafa, with whom Prof Lin coauthored their textbook [Learning From Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069). I highly recommend this book for people who are interested in the basics of statistical learning theory. 
