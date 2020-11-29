@@ -1,4 +1,10 @@
-This file contains various basic and very useful learning material (at least for me) from the following courses:
+Machine_Learning_Material
+
+Author: Bo Tian 
+
+Date: 11/28/2020
+
+This repository contains various basic and very useful learning material (at least for me) from the following courses:
 
 * [NTU-HsuanTienLin-MachineLearningFoundation Part I（林轩田机器学习)](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 * [NTU-HsuanTienLin-MachineLearningFoundation Part II（林轩田机器学习)](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
