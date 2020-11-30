@@ -1,8 +1,5 @@
 Machine_Learning_Material
 
-Author: Bo Tian 
-
-Date: 11/28/2020
 
 This repository contains various basic and very useful learning material (at least for me) from the following courses:
 
@@ -17,3 +14,5 @@ The first two courses is related to the following course:  [Caltech's Machine Le
 
 The Last book by  Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani is intended for undergraduate student, and if you are interested in more advanced theoretical aspects of statistical learning, there is another book [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). Similar books are [Pattern Recognition and Machine Learning by Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) and [Machine Learning: a Probabilistic Perspective
 by Kevin Murphy](https://www.cs.ubc.ca/~murphyk/MLbook/) with roughly the same level of math sophistication.
+
+Also added recently is a collection of machine learning related books in Chinese, which are very useful resources for further study and hands-on practice.
