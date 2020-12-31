@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+numpy = "*"
+pandas = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
+jupyter = "*"
+patsy = "*"
+cython = "*"
+statsmodels = "*"
+xlrd = "*"
+pytz = "*"
+hmmlearn = "*"
+pandas-datareader = "*"
+findspark = "*"
+sklearn-pandas = "*"
+imbalanced-learn = "*"
